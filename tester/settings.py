@@ -27,8 +27,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = []
 
-
-ALLOWED_HOSTS = ['test-static-eight.vercel.app']
+ALLOWED_HOSTS = ['.vercel.app', '.now.sh']
 # Application definition
 
 INSTALLED_APPS = [
